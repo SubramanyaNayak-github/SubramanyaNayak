@@ -2,11 +2,12 @@
 
 <h3 align="center">A passionate Data scientist from India</h3>
 
-<img align = "right" alt = " coding " width = "400" src = "https://images.app.goo.gl/Fv7HsVrhGUetF6oi9">
 
-- 🔭 I’m currently working **Data science Projects**
 
-- 🌱 I’m currently learning **Data science, Data analysis. My skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects. I also love working with different technologies & platforms and my current favorite ones are ❤️ SQL ❤️ Python ❤️ Tableau**
+- 🔭 I’m currently working **Data science Projects.**
+
+- 🌱 I’m currently learning **Data science, Data analysis. My skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects. I also love working with different technologies & platforms and my current favorite ones are <br> ❤️ SQL
+<br>❤️ Python  <br> ❤️ Tableau**
 
 - 📫 How to reach me **subramanyanayak3@gmail.com**
 
