@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **Data science Projects**
 
-- 🌱 I’m currently learning **Data science, Data analysis,**
+- 🌱 I’m currently learning **Data science, Data analysis. My skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects. I also love working with different technologies & platforms and my current favorite ones are ❤️ SQL ❤️ Python ❤️ Tableau**
 
 - 📫 How to reach me **subramanyanayak3@gmail.com**
 
