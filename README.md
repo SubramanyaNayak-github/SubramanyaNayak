@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data scientist from India</h3>
 
-<img align = "right" alt = " coding " width = "400" src = "https://www.google.com/url?sa=i&url=ht">
+<img align = "right" alt = " coding " width = "400" src = "https://images.app.goo.gl/Fv7HsVrhGUetF6oi9">
 
 - 🔭 I’m currently working **Data science Projects**
 
