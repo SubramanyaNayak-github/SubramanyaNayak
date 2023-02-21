@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **subramanyanayak3@gmail.com**
 
-- 📄 Know about my experiences [I have 6.7 years of experience in automobile domain where I used report to manager on daily basis. After that I completed Post graduation diploma in Data science from IIIT Bangalore, where explored many things about data.](I have 6.7 years of experience in automobile domain where I used report to manager on daily basis. After that I completed Post graduation diploma in Data science from IIIT Bangalore, where explored many things about data.)
-
+- 📄 Know about my experiences [I have 6.7 years of experience in automobile domain where I used report to manager on daily basis. After that I completed Post graduation diploma in Data science from IIIT Bangalore, where explored many things about data.]
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
