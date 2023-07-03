@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate Data scientist from India</h3>
 
-
+<body>
+<p>
 
 - 🔭 I’m currently working **Data science Projects.**
 
@@ -12,12 +13,18 @@
 - 📫 How to reach me **subramanyanayak3@gmail.com**
 
 - 📄 Know about my experiences [I have 6.7 years of experience in automobile domain where I used report to manager on daily basis. After that I completed Post graduation diploma in Data science from IIIT Bangalore, where explored many things about data.]
+
+</p>
+<body>
+<br>
+<br>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://linkedin.com/in/subramanya-nayak-baaa6010a
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-nayak-baaa6010a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subramanya-nayak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-nayak-baaa6010a" height="30" width="40" /></a>
 
 </p>
 
